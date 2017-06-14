@@ -1,0 +1,9 @@
+2017-06-12 18:21:44 - PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/shop/system/library/db/mysqli.php on line 7
+2017-06-12 18:21:44 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Applications/XAMPP/xamppfiles/htdocs/shop/system/library/db/mysqli.php on line 10
+2017-06-12 18:21:44 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Applications/XAMPP/xamppfiles/htdocs/shop/system/library/db/mysqli.php on line 10
+2017-06-12 18:21:53 - PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/shop/system/library/db/mysqli.php on line 7
+2017-06-12 18:21:53 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Applications/XAMPP/xamppfiles/htdocs/shop/system/library/db/mysqli.php on line 10
+2017-06-12 18:21:53 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Applications/XAMPP/xamppfiles/htdocs/shop/system/library/db/mysqli.php on line 10
+2017-06-13 22:49:32 - PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/shop/system/library/db/mysqli.php on line 7
+2017-06-13 22:49:32 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Applications/XAMPP/xamppfiles/htdocs/shop/system/library/db/mysqli.php on line 10
+2017-06-13 22:49:32 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Applications/XAMPP/xamppfiles/htdocs/shop/system/library/db/mysqli.php on line 10
